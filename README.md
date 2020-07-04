@@ -21,9 +21,9 @@ Login Credentials
 2. Employee1 Username: mstuttard1 
    Employee1 Password: mstuttard1
 
-3. Employee2 Username: horritt2
+3. Employee2 Username: horritt2 
    Employee2 Password: horritt2
 
-4. Employee3 Username: pchadwell3
+4. Employee3 Username: pchadwell3 
    Employee3 Password: pchadwell3
 
