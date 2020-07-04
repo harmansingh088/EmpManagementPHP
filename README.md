@@ -10,4 +10,20 @@ PHP Application
 7. Open “pro-PBCodersServer” in visual code.
 8. Open “Query.sql” under data subfolder.
 9. Make a database connection. Enter “localhost” sas host name, “root” as user, left password empty, and port number default (3306).
-10.Open localhost on the browser click on the “pro-PBCodersClient” alias.
+10. Open localhost on the browser click on the “pro-PBCodersClient” alias.
+11. Open “pro-PBCoders-login.php”.
+
+
+Login Credentials 
+1. Admin Username: cprydden0  
+   Admin Password: cprydden0
+   
+2. Employee1 Username: mstuttard1 
+   Employee1 Password: mstuttard1
+
+3. Employee2 Username: horritt2
+   Employee2 Password: horritt2
+
+4. Employee3 Username: pchadwell3
+   Employee3 Password: pchadwell3
+
